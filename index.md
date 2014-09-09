@@ -10,7 +10,7 @@ Fall 2014 Schedule
 
 - Topic: The Evolution of Migration
 
-- Paper: []()
+- Paper: [Winger](https://github.com/mgharvey/reading_group/blob/master/bin/Winger_PNAS_2014.pdf)
 
 **2 September**
 
@@ -22,6 +22,8 @@ Fall 2014 Schedule
 
 - Topic: Sexual Harassment in Science
 
-- Paper: []()
+- Paper: 
+
+[html](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0102172)
 
 
