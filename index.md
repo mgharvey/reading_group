@@ -39,8 +39,6 @@ Future
 
 **9 December**
 
-**16 December**
-
 Past
 -------
 
