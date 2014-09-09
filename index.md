@@ -8,20 +8,20 @@ Fall 2014 Schedule
 
 **26 August**
 
-Topic: The Evolution of Migration
+- Topic: The Evolution of Migration
 
-Paper: []()
+- Paper: []()
 
 **2 September**
 
-Topic: Inferring Biology from Species Distributions
+- Topic: Inferring Biology from Species Distributions
 
-Paper: []()
+- Paper: []()
 
 **9 September**
 
-Topic: Sexual Harassment in Science
+- Topic: Sexual Harassment in Science
 
-Paper: []()
+- Paper: []()
 
 
