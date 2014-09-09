@@ -22,6 +22,28 @@ Fall 2014 Schedule
 
 **16 September**
 
-- Topic:
+**23 September - No Discussion (AOU Meeting)
 
-- Paper: 
+**30 September**
+
+**7 October**
+
+**14 October**
+
+**21 October**
+
+**28 October**
+
+**4 November**
+
+**11 November**
+
+**18 November**
+
+**25 November**
+
+**2 December**
+
+**9 December**
+
+**16 December**
