@@ -22,7 +22,7 @@ Fall 2014 Schedule
 
 **16 September**
 
-**23 September - No Discussion (AOU Meeting)
+**23 September - No Discussion (AOU Meeting)**
 
 **30 September**
 
