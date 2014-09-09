@@ -42,11 +42,10 @@ Future
 Past
 -------
 
-**26 August** - *The Evolution of Migration*
-
-- Winger, BM, FK Barker, and RH Ree. 2014. Temperate origins of long-distance seasonal migration in New World songbirds. PNAS. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Winger_PNAS_2014.pdf)
-
 **2 September** - *Inferring Biology from Species Distributions*
 
 - Warren, DL, M Cardillo, DF Rosauer, and DI Bolnick. 2014. Mistaking geography for biology: inferring processes from species distributions. TREE. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Warren_Tree_2014.pdf)
 
+**26 August** - *The Evolution of Migration*
+
+- Winger, BM, FK Barker, and RH Ree. 2014. Temperate origins of long-distance seasonal migration in New World songbirds. PNAS. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Winger_PNAS_2014.pdf)
