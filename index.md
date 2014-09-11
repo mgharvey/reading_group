@@ -13,7 +13,7 @@ Pro-islands article on crow hybrid zone:
 - Poelstra, JW et al. 2014. The genomic landscape underlying phenotypic integrity in the face of gene flow in crows. Science. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Poelstra-1410-4.pdf)
 
 Anti-islands review article:
-- Noor, MAF and SM Bennett. 2009. Islands of speciation or mirages in the desert? Examining the role of restricted recombination in maintaining species. Heredity. [(html)](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0102172) [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Noor&Bennett.pdf)
+- Noor, MAF and SM Bennett. 2009. Islands of speciation or mirages in the desert? Examining the role of restricted recombination in maintaining species. Heredity. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Noor&Bennett.pdf)
 
 Anti-islands longer article:
 - Cruickshank TE and MW Hahn. 2014. Reanalaysis suggests that genomic islands of speciation are due to reduced diversity, not reduced gene flow. Mol. Ecol. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Cruickshank&Hahn.pdf)
