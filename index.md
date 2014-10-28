@@ -6,11 +6,14 @@ A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https
 This Week (28 October) - *The Spandrels* (Clare)
 -------
 
-The Classic
+The classic:
 - Gould SJ and RC Lewontin. 1979. The spandrels of San Marco and the Panglossian paradigm: a critique of the adaptationist programme. Proc. Roy. Soc. B [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Gould & Lewontin 1979 PRSLB.pdf)
 
-A newer incarnation with respect to genomic analyses
+A newer incarnation with relevance to genomic analyses:
 - Nielsen R. 2009. Adaptationism - 30 years after Gould and Lewontin. Evolution [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Nielsen2009.pdf)
+
+A short chapter by Mary Jane West-Eberhard arguing for adaptationism:
+- West-Eberhard MJ. 1992. Adaptation: Current Usages. Keywords in Evolutionar Biology (book) [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/West-Eberhard 1992 on Adaptation.pdf)
 
 Future
 -------
