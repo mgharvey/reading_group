@@ -3,35 +3,17 @@ LSU Evolution Discussion Group
 
 A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https://groups.google.com/forum/#!forum/lsu-evol-discussion) for more info.
 
-This Week (16 September) - *Are Genomic Islands of Divergence Real?* (Melissa)
+This Week (28 October) - *The Spandrels* (Clare)
 -------
 
-Popular article reviewing history of islands of divergence:
-- Pennisi, E. 2014. Disputed islands. Science. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Pennisi-Disputed-Islands.pdf)
+The Classic
+- Gould SJ and RC Lewontin. 1979. The spandrels of San Marco and the Panglossian paradigm: a critique of the adaptationist programme. Proc. Roy. Soc. B [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Gould & Lewontin 1979 PRSLB.pdf)
 
-Pro-islands article on crow hybrid zone:
-- Poelstra, JW et al. 2014. The genomic landscape underlying phenotypic integrity in the face of gene flow in crows. Science. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Poelstra-1410-4.pdf)
-
-Anti-islands review article:
-- Noor, MAF and SM Bennett. 2009. Islands of speciation or mirages in the desert? Examining the role of restricted recombination in maintaining species. Heredity. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Noor&Bennett.pdf)
-
-Anti-islands longer article:
-- Cruickshank TE and MW Hahn. 2014. Reanalaysis suggests that genomic islands of speciation are due to reduced diversity, not reduced gene flow. Molecular Ecology. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Cruickshank&Hahn.pdf)
+A newer incarnation with respect to genomic analyses
+- Nielsen R. 2009. Adaptationism - 30 years after Gould and Lewontin. Evolution [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Nielsen2009.pdf)
 
 Future
 -------
-
-**23 September** - *No Discussion (AOU Meeting)*
-
-**30 September**
-
-**7 October**
-
-**14 October**
-
-**21 October**
-
-**28 October**
 
 **4 November**
 
@@ -47,6 +29,30 @@ Future
 
 Past
 -------
+
+**21 October** - *No Discussion (Mokross Defense)*
+
+**14 October** - 
+
+**7 October** - 
+
+**30 September** - 
+
+**23 September** - *No Discussion (AOU Meeting)*
+
+**16 September** - *Are Genomic Islands of Divergence Real?* (Melissa)
+
+Popular article reviewing history of islands of divergence:
+- Pennisi, E. 2014. Disputed islands. Science. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Pennisi-Disputed-Islands.pdf)
+
+Pro-islands article on crow hybrid zone:
+- Poelstra, JW et al. 2014. The genomic landscape underlying phenotypic integrity in the face of gene flow in crows. Science. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Poelstra-1410-4.pdf)
+
+Anti-islands review article:
+- Noor, MAF and SM Bennett. 2009. Islands of speciation or mirages in the desert? Examining the role of restricted recombination in maintaining species. Heredity. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Noor&Bennett.pdf)
+
+Anti-islands longer article:
+- Cruickshank TE and MW Hahn. 2014. Reanalaysis suggests that genomic islands of speciation are due to reduced diversity, not reduced gene flow. Molecular Ecology. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Cruickshank&Hahn.pdf)
 
 **9 September** - *Sexual Harassment in Academia* (Clare)
 
