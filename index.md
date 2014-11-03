@@ -3,7 +3,7 @@ LSU Evolution Discussion Group
 
 A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https://groups.google.com/forum/#!forum/lsu-evol-discussion) for more info.
 
-This Week (28 October) - *What Constitutes Science?* (Clare)
+This Week (28 October) - *What Constitutes Science?* (Rafa)
 -------
 
 Vuilleumier on whether Neotropical ornithology is scientific:
