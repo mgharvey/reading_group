@@ -28,7 +28,6 @@ Past
 -------
 
 **28 October** - *The Spandrels*
--------
 
 The classic:
 - Gould SJ and RC Lewontin. 1979. The spandrels of San Marco and the Panglossian paradigm: a critique of the adaptationist programme. Proc. Roy. Soc. B [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Gould & Lewontin 1979 PRSLB.pdf)
