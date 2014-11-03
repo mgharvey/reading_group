@@ -46,7 +46,7 @@ And also the [blog post](http://oikosjournal.wordpress.com/2011/08/26/why-the-sp
 
 - Losos, JB et al. 2013. Evolutionary Biology for the 21st Century. PLoS Biology. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Losos2013.pdf)
 
-**7 October** - *Density-Dependent Processes* (Ryan and Mark)
+**7 October** - *Density-Dependent Processes* (Ryan E. and Mark)
 
 - Waters, JM, CW Fraser, and GM Hewitt. 2013. Founder takes all: density-dependent processes structure biodiversity. Trends in Ecol. and Evol. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Waters2013.pdf)
 
