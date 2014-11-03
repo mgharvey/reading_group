@@ -43,11 +43,23 @@ And also the [blog post](http://oikosjournal.wordpress.com/2011/08/26/why-the-sp
 
 **21 October** - *No Discussion (Mokross Defense)*
 
-**14 October** - 
+**14 October** - *Evolutionary Biology for the 21st Century* (Genevieve and Clare)
 
-**7 October** - 
+Essay:
+- Losos, JB et al. 2013. Evolutionary Biology for the 21st Century. PLoS Biology. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Losos2013.pdf)
 
-**30 September** - 
+**7 October** - *Density-Dependent Processes* (Ryan and Mark)
+
+Opinion piece:
+- Waters, JM, CW Fraser, and GM Hewitt. 2013. Founder takes all: density-dependent processes structure biodiversity. Trends in Ecol. and Evol. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Waters2013.pdf)
+
+**30 September** - *The Drivers of Tropical Speciation* (Matt)
+
+"Cross-Andes" paper:
+- Smith, BT et al. 2014. The Drivers of Tropical Speciation. Nature. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Smith2014.pdf)
+
+Opinion piece:
+- Waters, JM, CW Fraser, and GM Hewitt. 2013. Founder takes all: density-dependent processes structure biodiversity. Trends in Ecol. and Evol. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Waters2013.pdf)
 
 **23 September** - *No Discussion (AOU Meeting)*
 
