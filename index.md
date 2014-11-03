@@ -58,9 +58,6 @@ Opinion piece:
 "Cross-Andes" paper:
 - Smith, BT et al. 2014. The Drivers of Tropical Speciation. Nature. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Smith2014.pdf)
 
-Opinion piece:
-- Waters, JM, CW Fraser, and GM Hewitt. 2013. Founder takes all: density-dependent processes structure biodiversity. Trends in Ecol. and Evol. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Waters2013.pdf)
-
 **23 September** - *No Discussion (AOU Meeting)*
 
 **16 September** - *Are Genomic Islands of Divergence Real?* (Melissa)
