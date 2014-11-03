@@ -6,7 +6,6 @@ A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https
 This Week (28 October) - *What Constitutes Science?* (Rafa)
 -------
 
-Vuilleumier on whether Neotropical ornithology is scientific:
 - Vuilleumier F. 2004. A critique of Neotropical ornithology: is research on Neotropical birds scientific? Ornitologia Neotropical [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Vuilleumier2004.pdf)
 
 Future
