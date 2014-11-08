@@ -3,10 +3,10 @@ LSU Evolution Discussion Group
 
 A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https://groups.google.com/forum/#!forum/lsu-evol-discussion) for more info.
 
-This Week (28 October) - *What Constitutes Science?* (Rafa)
+This Week (11 November) - *Genomic signatures of adaptation and climate* (Rafa)
 -------
 
-- Vuilleumier F. 2004. A critique of Neotropical ornithology: is research on Neotropical birds scientific? Ornitologia Neotropical [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Vuilleumier2004.pdf)
+- Yoder, J., J. Stanton-Geddes, P. Zhou, R. Briskine, N. D Young, and P. Tiffin. 2014. Genomic signature of adaptation to climate in *Medicago trunculata* Genetics [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Yoder2014.pdf)
 
 Future
 -------
@@ -25,6 +25,10 @@ Future
 
 Past
 -------
+
+**4 November** - *What Constitutes Science?* (Rafa)
+
+- Vuilleumier F. 2004. A critique of Neotropical ornithology: is research on Neotropical birds scientific? Ornitologia Neotropical [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Vuilleumier2004.pdf)
 
 **28 October** - *The Spandrels*
 
