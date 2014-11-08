@@ -3,7 +3,7 @@ LSU Evolution Discussion Group
 
 A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https://groups.google.com/forum/#!forum/lsu-evol-discussion) for more info.
 
-This Week (11 November) - *Genomic signatures of adaptation and climate* (Rafa)
+This Week (11 November) - *Genomic signatures of adaptation and climate* (Glenn)
 -------
 
 - Yoder, J., J. Stanton-Geddes, P. Zhou, R. Briskine, N. D Young, and P. Tiffin. 2014. Genomic signature of adaptation to climate in *Medicago trunculata* Genetics [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Yoder2014.pdf)
