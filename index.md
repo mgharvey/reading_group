@@ -9,7 +9,7 @@ This Week (11 November) - *Species selection* (Mike)
 Stanley's seminal paper:
 - Stanley SM. 1975. A theory of selection above the species level. Proc. Nat. Acad. Sci. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Stanley1975.pdf)
 
-Jablonski's review of species selection:
+Jablonski's recent review of species selection:
 - Jablonski D. 2008. Species selection: theory and data. Annual Reviews - Ecol., Evol., Syst. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Jablonski2008.pdf)
 
 Studying species selection with molecular phylogenies:
@@ -44,7 +44,7 @@ A newer incarnation with relevance to genomic analyses (from Rafa):
 - Nielsen R. 2009. Adaptationism - 30 years after Gould and Lewontin. Evolution [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Nielsen2009.pdf)
 
 A short chapter by Mary Jane West-Eberhard arguing for adaptationism:
-- West-Eberhard MJ. 1992. Adaptation: Current Usages. Keywords in Evolutionar Biology (book) [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/West-Eberhard 1992 on Adaptation.pdf)
+- West-Eberhard MJ. 1992. Adaptation: Current Usages. Keywords in Evolutionary Biology (book) [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/West-Eberhard 1992 on Adaptation.pdf)
 
 And also the [blog post](http://oikosjournal.wordpress.com/2011/08/26/why-the-spandrels-of-san-marco-isnt-a-good-paper/) Rafa posted critiquing the classic.
 
