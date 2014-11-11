@@ -7,7 +7,7 @@ This Week (11 November) - *Species selection* (Mike)
 -------
 
 Stanley's seminal paper:
-- Stanley. 1975. A theory of selection above the species level. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Stanley1975.pdf)
+- Stanley SM. 1975. A theory of selection above the species level. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Stanley1975.pdf)
 
 Jablonski's review of species selection:
 - Jablonski D. 2008. Species selection: theory and data. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Jablonski2008.pdf)
