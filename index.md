@@ -3,19 +3,23 @@ LSU Evolution Discussion Group
 
 A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https://groups.google.com/forum/#!forum/lsu-evol-discussion) for more info.
 
-This Week (11 November) - *Genomic signatures of adaptation and climate* (Glenn)
+This Week (11 November) - *Species selection* (Mike)
 -------
 
-- Yoder, J., J. Stanton-Geddes, P. Zhou, R. Briskine, N. D Young, and P. Tiffin. 2014. Genomic signature of adaptation to climate in *Medicago trunculata* Genetics [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Yoder2014.pdf)
+Jablonski's review of species selection:
+
+- Jablonski D. 2008. Species selection: theory and data. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Jablonski2008.pdf)
+
+Studying species selection with molecular phylogenies:
+
+- Rabosky DL and AR McCune. 2010. Reinventing species selection with molecular phylogenies. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/RaboskyMcCune2010.pdf)
 
 Future
 -------
 
-**4 November**
+**18 November** - *Genomic signatures of adaptation and climate* (Glenn)
 
-**11 November**
-
-**18 November**
+- Yoder, J., J. Stanton-Geddes, P. Zhou, R. Briskine, N. D Young, and P. Tiffin. 2014. Genomic signature of adaptation to climate in *Medicago trunculata* Genetics [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Yoder2014.pdf)
 
 **25 November**
 
