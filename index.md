@@ -7,13 +7,13 @@ This Week (11 November) - *Species selection* (Mike)
 -------
 
 Stanley's seminal paper:
-- Stanley SM. 1975. A theory of selection above the species level. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Stanley1975.pdf)
+- Stanley SM. 1975. A theory of selection above the species level. Proc. Nat. Acad. Sci. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Stanley1975.pdf)
 
 Jablonski's review of species selection:
-- Jablonski D. 2008. Species selection: theory and data. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Jablonski2008.pdf)
+- Jablonski D. 2008. Species selection: theory and data. Annual Reviews - Ecol., Evol., Syst. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Jablonski2008.pdf)
 
 Studying species selection with molecular phylogenies:
-- Rabosky DL and AR McCune. 2010. Reinventing species selection with molecular phylogenies. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/RaboskyMcCune2010.pdf)
+- Rabosky DL and AR McCune. 2010. Reinventing species selection with molecular phylogenies. Trends Ecol. Evol. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/RaboskyMcCune2010.pdf)
 
 Future
 -------
