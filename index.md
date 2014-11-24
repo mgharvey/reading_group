@@ -3,15 +3,13 @@ LSU Evolution Discussion Group
 
 A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https://groups.google.com/forum/#!forum/lsu-evol-discussion) for more info.
 
-This Week (18 November) - *Genomic signatures of adaptation and climate* (Glenn)
+This Week (25 November) - *Interspecific social dominance mimicry* (Glenn/Matt)
 -------
 
-- Yoder J, J Stanton-Geddes, P Zhou, R Briskine, N D Young, and P Tiffin. 2014. Genomic signatures of adaptation to climate in *Medicago trunculata* Genetics [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Yoder2014.pdf)
+- Prum RO. 2014. Interspecific social dominance mimicry in birds. Zool. J. Linn. Soc. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Prum2014.pdf)
 
 Future
 -------
-
-**25 November**
 
 **2 December**
 
@@ -19,6 +17,10 @@ Future
 
 Past
 -------
+
+**18 November** - *Genomic signatures of adaptation and climate* (Glenn)
+
+- Yoder J, J Stanton-Geddes, P Zhou, R Briskine, N D Young, and P Tiffin. 2014. Genomic signatures of adaptation to climate in *Medicago trunculata* Genetics [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Yoder2014.pdf)
 
 **11 November** - *Species Selection* (Mike)
 
