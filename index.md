@@ -11,8 +11,6 @@ This Week (2 December) - *Evolution of sweet taste perception in hummingbirds* (
 Future
 -------
 
-**2 December**
-
 **9 December**
 
 Past
