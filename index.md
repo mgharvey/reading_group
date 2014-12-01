@@ -3,10 +3,10 @@ LSU Evolution Discussion Group
 
 A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https://groups.google.com/forum/#!forum/lsu-evol-discussion) for more info.
 
-This Week (25 November) - *Interspecific social dominance mimicry* (Glenn/Matt)
+This Week (2 December) - *Evolution of sweet taste perception in hummingbirds* (Zach)
 -------
 
-- Prum RO. 2014. Interspecific social dominance mimicry in birds. Zool. J. Linn. Soc. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Prum2014.pdf)
+- Baldwin MW et al. 2014. Evolution of sweet taste perception in hummingbirds by transformation of the ancestral umami receptor. Science. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Baldwin2014.pdf)
 
 Future
 -------
@@ -18,9 +18,13 @@ Future
 Past
 -------
 
+**25 November** - *Interspecific social dominance mimicry* (Glenn/Matt)
+
+- Prum RO. 2014. Interspecific social dominance mimicry in birds. Zool. J. Linn. Soc. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Prum2014.pdf)
+
 **18 November** - *Genomic signatures of adaptation and climate* (Glenn)
 
-- Yoder J, J Stanton-Geddes, P Zhou, R Briskine, N D Young, and P Tiffin. 2014. Genomic signatures of adaptation to climate in *Medicago trunculata* Genetics [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Yoder2014.pdf)
+- Yoder J, J Stanton-Geddes, P Zhou, R Briskine, ND Young, and P Tiffin. 2014. Genomic signatures of adaptation to climate in *Medicago trunculata* Genetics [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Yoder2014.pdf)
 
 **11 November** - *Species Selection* (Mike)
 
