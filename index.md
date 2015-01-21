@@ -3,7 +3,7 @@ LSU Evolution Discussion Group
 
 A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https://groups.google.com/forum/#!forum/lsu-evol-discussion) for more info.
 
-This Week (27 January) - *New World primate evolution* (Oscar)
+This Week (27 January 2015) - *New World Primate Evolution* (Oscar)
 -------
 
 - Aristide L et al. 2015. Modeling lineage and phenotypic diversification in the New World monkey (Platyrrhini, Primates) radiation. Mol. Phylo. Evol. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Aristideetal2015.pdf)
@@ -13,26 +13,26 @@ This Week (27 January) - *New World primate evolution* (Oscar)
 Future
 -------
 
-**3 February**
+**3 February 2015** - *Does Evolutionary Theory Need a Rethink?* (Rafa)
 
 > - Laland K, Wray GA, Hoekstra HE et al. 2014. Does evolutionary theory need a rethink? Nature. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/LalandWrayHoekstra2014.pdf)
 
 Past
 -------
 
-**2 December** - *Evolution of sweet taste perception in hummingbirds* (Zach)
+**2 December 2014** - *Evolution of Sweet Taste in Hummingbirds* (Zach)
 
 > - Baldwin MW et al. 2014. Evolution of sweet taste perception in hummingbirds by transformation of the ancestral umami receptor. Science. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Baldwin2014.pdf)
 
-**25 November** - *Interspecific social dominance mimicry* (Glenn/Matt)
+**25 November 2014** - *Interspecific Social Dominance Mimicry* (Glenn/Matt)
 
 > - Prum RO. 2014. Interspecific social dominance mimicry in birds. Zool. J. Linn. Soc. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Prum2014.pdf)
 
-**18 November** - *Genomic signatures of adaptation and climate* (Glenn)
+**18 November 2014** - *Genomic Signatures of Adaptation and Climate* (Glenn)
 
 > - Yoder J, J Stanton-Geddes, P Zhou, R Briskine, ND Young, and P Tiffin. 2014. Genomic signatures of adaptation to climate in *Medicago trunculata* Genetics [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Yoder2014.pdf)
 
-**11 November** - *Species Selection* (Mike)
+**11 November 2014** - *Species Selection* (Mike)
 
 > Jablonski's recent review of species selection (read this if you only read one paper):
 > - Jablonski D. 2008. Species selection: theory and data. Annual Reviews - Ecol., Evol., Syst. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Jablonski2008.pdf)
@@ -43,11 +43,11 @@ Past
 > Studying species selection with molecular phylogenies:
 > - Rabosky DL and AR McCune. 2010. Reinventing species selection with molecular phylogenies. Trends Ecol. Evol. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/RaboskyMcCune2010.pdf)
 
-**4 November** - *What Constitutes Science?* (Rafa)
+**4 November 2014** - *What Constitutes Science?* (Rafa)
 
 > - Vuilleumier F. 2004. A critique of Neotropical ornithology: is research on Neotropical birds scientific? Ornitologia Neotropical [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Vuilleumier2004.pdf)
 
-**28 October** - *The Spandrels*
+**28 October 2014** - *The Spandrels*
 
 > The classic:
 > - Gould SJ and RC Lewontin. 1979. The spandrels of San Marco and the Panglossian paradigm: a critique of the adaptationist programme. Proc. Roy. Soc. B [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Gould & Lewontin 1979 PRSLB.pdf)
@@ -60,23 +60,23 @@ Past
 > 
 > And also the [blog post](http://oikosjournal.wordpress.com/2011/08/26/why-the-spandrels-of-san-marco-isnt-a-good-paper/) Rafa posted critiquing the classic.
 
-**21 October** - *No Discussion (Mokross Defense)*
+**21 October 2014** - *No Discussion (Mokross Defense)*
 
-**14 October** - *Evolutionary Biology for the 21st Century* (Genevieve and Clare)
+**14 October 2014** - *Evolutionary Biology for the 21st Century* (Genevieve and Clare)
 
 > - Losos, JB et al. 2013. Evolutionary Biology for the 21st Century. PLoS Biology. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Losos2013.pdf)
 
-**7 October** - *Density-Dependent Processes* (Ryan E. and Mark)
+**7 October 2014** - *Density-Dependent Processes* (Ryan E. and Mark)
 
 > - Waters, JM, CW Fraser, and GM Hewitt. 2013. Founder takes all: density-dependent processes structure biodiversity. Trends in Ecol. and Evol. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Waters2013.pdf)
 
-**30 September** - *The Drivers of Tropical Speciation* (Matt)
+**30 September 2014** - *The Drivers of Tropical Speciation* (Matt)
 
 > - Smith, BT et al. 2014. The Drivers of Tropical Speciation. Nature. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Smith2014.pdf)
 
-**23 September** - *No Discussion (AOU Meeting)*
+**23 September 2014** - *No Discussion (AOU Meeting)*
 
-**16 September** - *Are Genomic Islands of Divergence Real?* (Melissa)
+**16 September 2014** - *Are Genomic Islands of Divergence Real?* (Melissa)
 
 > Popular article reviewing history of islands of divergence:
 > - Pennisi, E. 2014. Disputed islands. Science. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Pennisi-Disputed-Islands.pdf)
@@ -90,16 +90,16 @@ Past
 > Anti-islands longer article:
 > - Cruickshank TE and MW Hahn. 2014. Reanalaysis suggests that genomic islands of speciation are due to reduced diversity, not reduced gene flow. Molecular Ecology. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Cruickshank&Hahn.pdf)
 
-**9 September** - *Sexual Harassment in Academia* (Clare)
+**9 September 2014** - *Sexual Harassment in Academia* (Clare)
 
 > - Clancy, KBH et al. Survey of academic field experiences (SAFE): trainees report harassment and assault. PLoS One. [(html)](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0102172) [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Clancy_PLOS_2014.pdf)
 > - Abrahams, N et al. 2014. Worldwide prevalence of non-partner sexual violence: a systematic review. Lancet. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Abrahams_Lancet_2014.pdf)
 > - Hardy, MC. 2014. Create ethics codes to curb sex abuse. Nature. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Hardy_Nature_2014.pdf)
 
-**2 September** - *Inferring Biology from Species Distributions* (Jess)
+**2 September 2014** - *Inferring Biology from Species Distributions* (Jess)
 
 > - Warren, DL et al. 2014. Mistaking geography for biology: inferring processes from species distributions. TREE. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Warren_Tree_2014.pdf)
 
-**26 August** - *The Evolution of Migration* (Mike)
+**26 August 2014** - *The Evolution of Migration* (Mike)
 
 > - Winger, BM et al. Temperate origins of long-distance seasonal migration in New World songbirds. PNAS. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Winger_PNAS_2014.pdf)
