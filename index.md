@@ -1,7 +1,7 @@
 LSU Evolution Discussion Group
 =======
 
-A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https://groups.google.com/forum/#!forum/lsu-evol-discussion) for more info.
+A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https://groups.google.com/forum/#!forum/lsu-evol-discussion) for more info. To download pdfs, click on the "(pdf)" link and then on "View Raw".
 
 This Week 
 -------
@@ -39,12 +39,12 @@ Past
 
 **18 November 2014** - *Genomic Signatures of Adaptation and Climate* (Glenn)
 
-> - Yoder J, J Stanton-Geddes, P Zhou, R Briskine, ND Young, and P Tiffin. 2014. Genomic signatures of adaptation to climate in *Medicago trunculata* Genetics [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Yoder2014.pdf)
+> - Yoder J, J Stanton-Geddes, P Zhou, R Briskine, ND Young, and P Tiffin. 2014. Genomic signatures of adaptation to climate in *Medicago trunculata*. Genetics. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Yoder2014.pdf)
 
 **11 November 2014** - *Species Selection* (Mike)
 
 > Jablonski's recent review of species selection (read this if you only read one paper):
-> - Jablonski D. 2008. Species selection: theory and data. Annual Reviews - Ecol., Evol., Syst. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Jablonski2008.pdf)
+> - Jablonski D. 2008. Species selection: theory and data. Annual Reviews Ecol., Evol., Syst. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Jablonski2008.pdf)
 > 
 > Stanley's seminal paper:
 > - Stanley SM. 1975. A theory of selection above the species level. Proc. Nat. Acad. Sci. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Stanley1975.pdf)
