@@ -21,7 +21,7 @@ Future
 
 **10 February 2015** - 
 
-**17 February 2015** - *No Discussion (Mardi Gras, Duh)*
+**17 February 2015** - *No Discussion (Mardi Gras)*
 
 **24 February 2015** - 
 
