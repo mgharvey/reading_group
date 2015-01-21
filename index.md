@@ -1,5 +1,5 @@
 LSU Evolution Discussion Group
--------
+=======
 
 A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https://groups.google.com/forum/#!forum/lsu-evol-discussion) for more info.
 
@@ -15,14 +15,14 @@ Future
 
 **3 February**
 
-- Laland K, Wray GA, Hoekstra HE et al. 2014. Does evolutionary theory need a rethink? Nature. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/LalandWrayHoekstra2014.pdf)
+> Laland K, Wray GA, Hoekstra HE et al. 2014. Does evolutionary theory need a rethink? Nature. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/LalandWrayHoekstra2014.pdf)
 
 Past
 -------
 
 **2 December** - *Evolution of sweet taste perception in hummingbirds* (Zach)
 
-    Baldwin MW et al. 2014. Evolution of sweet taste perception in hummingbirds by transformation of the ancestral umami receptor. Science. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Baldwin2014.pdf)
+- Baldwin MW et al. 2014. Evolution of sweet taste perception in hummingbirds by transformation of the ancestral umami receptor. Science. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Baldwin2014.pdf)
 
 **25 November** - *Interspecific social dominance mimicry* (Glenn/Matt)
 
