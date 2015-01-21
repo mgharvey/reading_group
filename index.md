@@ -3,12 +3,14 @@ LSU Evolution Discussion Group
 
 A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https://groups.google.com/forum/#!forum/lsu-evol-discussion) for more info.
 
-This Week (27 January 2015) - *New World Primate Evolution* (Oscar)
+This Week 
 -------
 
-- Aristide L et al. 2015. Modeling lineage and phenotypic diversification in the New World monkey (Platyrrhini, Primates) radiation. Mol. Phylo. Evol. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Aristideetal2015.pdf)
+**27 January 2015** - *New World Primate Evolution* (Oscar)
 
-- Kay R. 2015. Biogeography in deep time - What do phylogenetics, geology, and paleocimate tell us about early platyrrhine evolution. Mol. Phylo. Evol. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Kay2015.pdf)
+> - Aristide L et al. 2015. Modeling lineage and phenotypic diversification in the New World monkey (Platyrrhini, Primates) radiation. Mol. Phylo. Evol. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Aristideetal2015.pdf)
+> 
+> - Kay R. 2015. Biogeography in deep time - What do phylogenetics, geology, and paleocimate tell us about early platyrrhine evolution. Mol. Phylo. Evol. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Kay2015.pdf)
 
 Future
 -------
