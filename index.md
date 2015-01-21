@@ -22,7 +22,7 @@ Past
 
 **2 December** - *Evolution of sweet taste perception in hummingbirds* (Zach)
 
-- Baldwin MW et al. 2014. Evolution of sweet taste perception in hummingbirds by transformation of the ancestral umami receptor. Science. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Baldwin2014.pdf)
+    Baldwin MW et al. 2014. Evolution of sweet taste perception in hummingbirds by transformation of the ancestral umami receptor. Science. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Baldwin2014.pdf)
 
 **25 November** - *Interspecific social dominance mimicry* (Glenn/Matt)
 
