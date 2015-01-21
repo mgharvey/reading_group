@@ -3,15 +3,19 @@ LSU Evolution Discussion Group
 
 A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https://groups.google.com/forum/#!forum/lsu-evol-discussion) for more info.
 
-This Week (? January) - *New World primate evolution* (Oscar)
+This Week (27 January) - *New World primate evolution* (Oscar)
 -------
 
-Aristide L et al. 2015. Modeling lineage and phenotypic diversification in the New World monkey (Platyrrhini, Primates) radiation. Mol. Phylo. Evol. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Aristideetal2015.pdf)
+- Aristide L et al. 2015. Modeling lineage and phenotypic diversification in the New World monkey (Platyrrhini, Primates) radiation. Mol. Phylo. Evol. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Aristideetal2015.pdf)
 
-Kay R. 2015. Biogeography in deep time - What do phylogenetics, geology, and paleocimate tell us about early platyrrhine evolution. Mol. Phylo. Evol. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Kay2015.pdf)
+- Kay R. 2015. Biogeography in deep time - What do phylogenetics, geology, and paleocimate tell us about early platyrrhine evolution. Mol. Phylo. Evol. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Kay2015.pdf)
 
 Future
 -------
+
+**3 February**
+
+- Laland K, Wray GA, Hoekstra HE et al. 2014. Does evolutionary theory need a rethink? Nature. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/LalandWrayHoekstra2014.pdf)
 
 Past
 -------
@@ -30,7 +34,7 @@ Past
 
 **11 November** - *Species Selection* (Mike)
 
-Jablonski's recent review of species selection (read this if you only read one paper):
+   Jablonski's recent review of species selection (read this if you only read one paper):
 - Jablonski D. 2008. Species selection: theory and data. Annual Reviews - Ecol., Evol., Syst. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Jablonski2008.pdf)
 
 Stanley's seminal paper:
