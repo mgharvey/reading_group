@@ -34,14 +34,14 @@ Past
 
 **11 November** - *Species Selection* (Mike)
 
-   Jablonski's recent review of species selection (read this if you only read one paper):
-- Jablonski D. 2008. Species selection: theory and data. Annual Reviews - Ecol., Evol., Syst. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Jablonski2008.pdf)
-
-Stanley's seminal paper:
-- Stanley SM. 1975. A theory of selection above the species level. Proc. Nat. Acad. Sci. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Stanley1975.pdf)
-
-Studying species selection with molecular phylogenies:
-- Rabosky DL and AR McCune. 2010. Reinventing species selection with molecular phylogenies. Trends Ecol. Evol. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/RaboskyMcCune2010.pdf)
+> Jablonski's recent review of species selection (read this if you only read one paper):
+> - Jablonski D. 2008. Species selection: theory and data. Annual Reviews - Ecol., Evol., Syst. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Jablonski2008.pdf)
+> 
+> Stanley's seminal paper:
+> - Stanley SM. 1975. A theory of selection above the species level. Proc. Nat. Acad. Sci. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Stanley1975.pdf)
+> 
+> Studying species selection with molecular phylogenies:
+> - Rabosky DL and AR McCune. 2010. Reinventing species selection with molecular phylogenies. Trends Ecol. Evol. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/RaboskyMcCune2010.pdf)
 
 **4 November** - *What Constitutes Science?* (Rafa)
 
