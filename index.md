@@ -15,22 +15,22 @@ Future
 
 **3 February**
 
-> Laland K, Wray GA, Hoekstra HE et al. 2014. Does evolutionary theory need a rethink? Nature. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/LalandWrayHoekstra2014.pdf)
+> - Laland K, Wray GA, Hoekstra HE et al. 2014. Does evolutionary theory need a rethink? Nature. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/LalandWrayHoekstra2014.pdf)
 
 Past
 -------
 
 **2 December** - *Evolution of sweet taste perception in hummingbirds* (Zach)
 
-- Baldwin MW et al. 2014. Evolution of sweet taste perception in hummingbirds by transformation of the ancestral umami receptor. Science. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Baldwin2014.pdf)
+> - Baldwin MW et al. 2014. Evolution of sweet taste perception in hummingbirds by transformation of the ancestral umami receptor. Science. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Baldwin2014.pdf)
 
 **25 November** - *Interspecific social dominance mimicry* (Glenn/Matt)
 
-- Prum RO. 2014. Interspecific social dominance mimicry in birds. Zool. J. Linn. Soc. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Prum2014.pdf)
+> - Prum RO. 2014. Interspecific social dominance mimicry in birds. Zool. J. Linn. Soc. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Prum2014.pdf)
 
 **18 November** - *Genomic signatures of adaptation and climate* (Glenn)
 
-- Yoder J, J Stanton-Geddes, P Zhou, R Briskine, ND Young, and P Tiffin. 2014. Genomic signatures of adaptation to climate in *Medicago trunculata* Genetics [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Yoder2014.pdf)
+> - Yoder J, J Stanton-Geddes, P Zhou, R Briskine, ND Young, and P Tiffin. 2014. Genomic signatures of adaptation to climate in *Medicago trunculata* Genetics [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Yoder2014.pdf)
 
 **11 November** - *Species Selection* (Mike)
 
@@ -45,61 +45,61 @@ Past
 
 **4 November** - *What Constitutes Science?* (Rafa)
 
-- Vuilleumier F. 2004. A critique of Neotropical ornithology: is research on Neotropical birds scientific? Ornitologia Neotropical [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Vuilleumier2004.pdf)
+> - Vuilleumier F. 2004. A critique of Neotropical ornithology: is research on Neotropical birds scientific? Ornitologia Neotropical [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Vuilleumier2004.pdf)
 
 **28 October** - *The Spandrels*
 
-The classic:
-- Gould SJ and RC Lewontin. 1979. The spandrels of San Marco and the Panglossian paradigm: a critique of the adaptationist programme. Proc. Roy. Soc. B [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Gould & Lewontin 1979 PRSLB.pdf)
-
-A newer incarnation with relevance to genomic analyses (from Rafa):
-- Nielsen R. 2009. Adaptationism - 30 years after Gould and Lewontin. Evolution [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Nielsen2009.pdf)
-
-A short chapter by Mary Jane West-Eberhard arguing for adaptationism:
-- West-Eberhard MJ. 1992. Adaptation: Current Usages. Keywords in Evolutionary Biology (book) [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/West-Eberhard 1992 on Adaptation.pdf)
-
-And also the [blog post](http://oikosjournal.wordpress.com/2011/08/26/why-the-spandrels-of-san-marco-isnt-a-good-paper/) Rafa posted critiquing the classic.
+> The classic:
+> - Gould SJ and RC Lewontin. 1979. The spandrels of San Marco and the Panglossian paradigm: a critique of the adaptationist programme. Proc. Roy. Soc. B [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Gould & Lewontin 1979 PRSLB.pdf)
+> 
+> A newer incarnation with relevance to genomic analyses (from Rafa):
+> - Nielsen R. 2009. Adaptationism - 30 years after Gould and Lewontin. Evolution [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Nielsen2009.pdf)
+> 
+> A short chapter by Mary Jane West-Eberhard arguing for adaptationism:
+> - West-Eberhard MJ. 1992. Adaptation: Current Usages. Keywords in Evolutionary Biology (book) [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/West-Eberhard 1992 on Adaptation.pdf)
+> 
+> And also the [blog post](http://oikosjournal.wordpress.com/2011/08/26/why-the-spandrels-of-san-marco-isnt-a-good-paper/) Rafa posted critiquing the classic.
 
 **21 October** - *No Discussion (Mokross Defense)*
 
 **14 October** - *Evolutionary Biology for the 21st Century* (Genevieve and Clare)
 
-- Losos, JB et al. 2013. Evolutionary Biology for the 21st Century. PLoS Biology. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Losos2013.pdf)
+> - Losos, JB et al. 2013. Evolutionary Biology for the 21st Century. PLoS Biology. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Losos2013.pdf)
 
 **7 October** - *Density-Dependent Processes* (Ryan E. and Mark)
 
-- Waters, JM, CW Fraser, and GM Hewitt. 2013. Founder takes all: density-dependent processes structure biodiversity. Trends in Ecol. and Evol. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Waters2013.pdf)
+> - Waters, JM, CW Fraser, and GM Hewitt. 2013. Founder takes all: density-dependent processes structure biodiversity. Trends in Ecol. and Evol. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Waters2013.pdf)
 
 **30 September** - *The Drivers of Tropical Speciation* (Matt)
 
-- Smith, BT et al. 2014. The Drivers of Tropical Speciation. Nature. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Smith2014.pdf)
+> - Smith, BT et al. 2014. The Drivers of Tropical Speciation. Nature. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Smith2014.pdf)
 
 **23 September** - *No Discussion (AOU Meeting)*
 
 **16 September** - *Are Genomic Islands of Divergence Real?* (Melissa)
 
-Popular article reviewing history of islands of divergence:
-- Pennisi, E. 2014. Disputed islands. Science. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Pennisi-Disputed-Islands.pdf)
-
-Pro-islands article on crow hybrid zone:
-- Poelstra, JW et al. 2014. The genomic landscape underlying phenotypic integrity in the face of gene flow in crows. Science. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Poelstra-1410-4.pdf)
-
-Anti-islands review article:
-- Noor, MAF and SM Bennett. 2009. Islands of speciation or mirages in the desert? Examining the role of restricted recombination in maintaining species. Heredity. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Noor&Bennett.pdf)
-
-Anti-islands longer article:
-- Cruickshank TE and MW Hahn. 2014. Reanalaysis suggests that genomic islands of speciation are due to reduced diversity, not reduced gene flow. Molecular Ecology. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Cruickshank&Hahn.pdf)
+> Popular article reviewing history of islands of divergence:
+> - Pennisi, E. 2014. Disputed islands. Science. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Pennisi-Disputed-Islands.pdf)
+> 
+> Pro-islands article on crow hybrid zone:
+> - Poelstra, JW et al. 2014. The genomic landscape underlying phenotypic integrity in the face of gene flow in crows. Science. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Poelstra-1410-4.pdf)
+> 
+> Anti-islands review article:
+> - Noor, MAF and SM Bennett. 2009. Islands of speciation or mirages in the desert? Examining the role of restricted recombination in maintaining species. Heredity. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Noor&Bennett.pdf)
+> 
+> Anti-islands longer article:
+> - Cruickshank TE and MW Hahn. 2014. Reanalaysis suggests that genomic islands of speciation are due to reduced diversity, not reduced gene flow. Molecular Ecology. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Cruickshank&Hahn.pdf)
 
 **9 September** - *Sexual Harassment in Academia* (Clare)
 
-- Clancy, KBH et al. Survey of academic field experiences (SAFE): trainees report harassment and assault. PLoS One. [(html)](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0102172) [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Clancy_PLOS_2014.pdf)
-- Abrahams, N et al. 2014. Worldwide prevalence of non-partner sexual violence: a systematic review. Lancet. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Abrahams_Lancet_2014.pdf)
-- Hardy, MC. 2014. Create ethics codes to curb sex abuse. Nature. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Hardy_Nature_2014.pdf)
+> - Clancy, KBH et al. Survey of academic field experiences (SAFE): trainees report harassment and assault. PLoS One. [(html)](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0102172) [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Clancy_PLOS_2014.pdf)
+> - Abrahams, N et al. 2014. Worldwide prevalence of non-partner sexual violence: a systematic review. Lancet. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Abrahams_Lancet_2014.pdf)
+> - Hardy, MC. 2014. Create ethics codes to curb sex abuse. Nature. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Hardy_Nature_2014.pdf)
 
 **2 September** - *Inferring Biology from Species Distributions* (Jess)
 
-- Warren, DL et al. 2014. Mistaking geography for biology: inferring processes from species distributions. TREE. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Warren_Tree_2014.pdf)
+> - Warren, DL et al. 2014. Mistaking geography for biology: inferring processes from species distributions. TREE. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Warren_Tree_2014.pdf)
 
 **26 August** - *The Evolution of Migration* (Mike)
 
-- Winger, BM et al. Temperate origins of long-distance seasonal migration in New World songbirds. PNAS. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Winger_PNAS_2014.pdf)
+> - Winger, BM et al. Temperate origins of long-distance seasonal migration in New World songbirds. PNAS. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Winger_PNAS_2014.pdf)
