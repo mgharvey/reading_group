@@ -3,18 +3,22 @@ LSU Evolution Discussion Group
 
 A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https://groups.google.com/forum/#!forum/lsu-evol-discussion) for more info.
 
-This Week (2 December) - *Evolution of sweet taste perception in hummingbirds* (Zach)
+This Week (? January) - *New World primate evolution* (Oscar)
 -------
 
-- Baldwin MW et al. 2014. Evolution of sweet taste perception in hummingbirds by transformation of the ancestral umami receptor. Science. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Baldwin2014.pdf)
+Aristide L et al. 2015. Modeling lineage and phenotypic diversification in the New World monkey (Platyrrhini, Primates) radiation. Mol. Phylo. Evol. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Aristideetal2015.pdf)
+
+Kay R. 2015. Biogeography in deep time - What do phylogenetics, geology, and paleocimate tell us about early platyrrhine evolution. Mol. Phylo. Evol. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Kay2015.pdf)
 
 Future
 -------
 
-**9 December**
-
 Past
 -------
+
+**2 December** - *Evolution of sweet taste perception in hummingbirds* (Zach)
+
+- Baldwin MW et al. 2014. Evolution of sweet taste perception in hummingbirds by transformation of the ancestral umami receptor. Science. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Baldwin2014.pdf)
 
 **25 November** - *Interspecific social dominance mimicry* (Glenn/Matt)
 
