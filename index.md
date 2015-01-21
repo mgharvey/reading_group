@@ -19,6 +19,13 @@ Future
 
 > - Laland K, Wray GA, Hoekstra HE et al. 2014. Does evolutionary theory need a rethink? Nature. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/LalandWrayHoekstra2014.pdf)
 
+**10 February 2015** - 
+
+**17 February 2015** - *No Discussion (Mardi Gras, Duh)*
+
+**24 February 2015** - 
+
+
 Past
 -------
 
