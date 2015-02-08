@@ -6,17 +6,13 @@ A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https
 This Week 
 -------
 
-**3 February 2015** - *Does Evolutionary Theory Need a Rethink?* (Rafa)
+**10 February 2015** - *Mapping Migratory Connectivity* (Matt)
 
-> - Laland K, Wray GA, Hoekstra HE et al. 2014. Does evolutionary theory need a rethink? Nature. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/LalandWrayHoekstra2014.pdf)
+> - Ruegg KC et al. 2014. Mapping migration in a songbird using high-resolution genetic markers. Mol. Ecol. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Rueggetal2014.pdf)
 
 
 Future
 -------
-
-**10 February 2015** - *Mapping Migratory Connectivity* (Matt)
-
-> - Ruegg KC et al. 2014. Mapping migration in a songbird using high-resolution genetic markers. Mol. Ecol. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Rueggetal2014.pdf)
 
 **17 February 2015** - *No Discussion (Mardi Gras)*
 
@@ -25,6 +21,10 @@ Future
 
 Past
 -------
+
+**3 February 2015** - *Does Evolutionary Theory Need a Rethink?* (Rafa)
+
+> - Laland K, Wray GA, Hoekstra HE et al. 2014. Does evolutionary theory need a rethink? Nature. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/LalandWrayHoekstra2014.pdf)
 
 **27 January 2015** - *New World Primate Evolution* (Oscar)
 
