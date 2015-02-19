@@ -6,21 +6,29 @@ A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https
 This Week 
 -------
 
-**10 February 2015** - *Mapping Migratory Connectivity* (Matt)
+**24 February 2015** - Assisted Evolution in Reefs (Joanna)
 
-> - Ruegg KC et al. 2014. Mapping migration in a songbird using high-resolution genetic markers. Mol. Ecol. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Rueggetal2014.pdf)
+> - van Oppen MJH et al. 2015. Building coral reef resilience through assisted evolution. PNAS. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/vanOppen2015.pdf)
 
 
 Future
 -------
 
-**17 February 2015** - *No Discussion (Mardi Gras)*
+**3 March 2015** - Individualistic response to climate change (Jess)
 
-**24 February 2015** - 
+> - Stewart JR. 2009. The evolutionary consequence of the individualistic response to climate change. J. Evol. Biol. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Stewart2008.pdf)
+
+**10 March 2015** - 
 
 
 Past
 -------
+
+**17 February 2015** - *No Discussion (Mardi Gras)*
+
+**10 February 2015** - *Mapping Migratory Connectivity* (Matt)
+
+> - Ruegg KC et al. 2014. Mapping migration in a songbird using high-resolution genetic markers. Mol. Ecol. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Rueggetal2014.pdf)
 
 **3 February 2015** - *Does Evolutionary Theory Need a Rethink?* (Rafa)
 
