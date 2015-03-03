@@ -6,17 +6,12 @@ A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https
 This Week 
 -------
 
-**24 February 2015** - Assisted Evolution in Reefs (Joanna)
-
-> - van Oppen MJH et al. 2015. Building coral reef resilience through assisted evolution. PNAS. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/vanOppen2015.pdf)
-
-
-Future
--------
-
 **3 March 2015** - Individualistic Response to Climate Change (Jess)
 
 > - Stewart JR. 2009. The evolutionary consequence of the individualistic response to climate change. J. Evol. Biol. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Stewart2008.pdf)
+
+Future
+-------
 
 **10 March 2015** - 
 
@@ -39,6 +34,10 @@ Future
 Past
 -------
 
+**24 February 2015** - Assisted Evolution in Reefs (Joanna)
+
+> - van Oppen MJH et al. 2015. Building coral reef resilience through assisted evolution. PNAS. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/vanOppen2015.pdf)
+
 **17 February 2015** - *No Discussion (Mardi Gras)*
 
 **10 February 2015** - *Mapping Migratory Connectivity* (Matt)
@@ -59,7 +58,7 @@ Past
 
 > - Baldwin MW et al. 2014. Evolution of sweet taste perception in hummingbirds by transformation of the ancestral umami receptor. Science. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Baldwin2014.pdf)
 
-**25 November 2014** - *Interspecific Social Dominance Mimicry* (Glenn/Matt)
+**25 November 2014** - *Interspecific Social Dominance Mimicry* (Glenn and Matt)
 
 > - Prum RO. 2014. Interspecific social dominance mimicry in birds. Zool. J. Linn. Soc. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Prum2014.pdf)
 
