@@ -8,7 +8,7 @@ This Week
 
 **3 March 2015** - Individualistic Response to Climate Change (Jess)
 
-> - Stewart JR. 2009. The evolutionary consequence of the individualistic response to climate change. J. Evol. Biol. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Stewart2008.pdf)
+> - Stewart JR. 2009. The evolutionary consequence of the individualistic response to climate change. J. Evol. Biol. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Stewart2009.pdf)
 
 Future
 -------
