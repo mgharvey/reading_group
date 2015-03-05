@@ -6,9 +6,10 @@ A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https
 This Week 
 -------
 
+**10 March 2015** - Group selection (Ryan E.)
+
 > - Pruit JN and Goodnight CJ. 2014. Site-specific group selection drives locally adapted group comparisons. Nature. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Pruitt&Goodnight2014.pdf)
 
-**10 March 2015** - 
 
 Future
 -------
