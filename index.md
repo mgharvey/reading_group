@@ -6,14 +6,12 @@ A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https
 This Week 
 -------
 
-**3 March 2015** - Individualistic Response to Climate Change (Jess)
+> - Pruit JN and Goodnight CJ. 2014. Site-specific group selection drives locally adapted group comparisons. Nature. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Pruitt&Goodnight2014.pdf)
 
-> - Stewart JR. 2009. The evolutionary consequence of the individualistic response to climate change. J. Evol. Biol. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Stewart2009.pdf)
+**10 March 2015** - 
 
 Future
 -------
-
-**10 March 2015** - 
 
 **17 March 2015** - 
 
@@ -33,6 +31,10 @@ Future
 
 Past
 -------
+
+**3 March 2015** - Individualistic Response to Climate Change (Jess)
+
+> - Stewart JR. 2009. The evolutionary consequence of the individualistic response to climate change. J. Evol. Biol. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Stewart2009.pdf)
 
 **24 February 2015** - Assisted Evolution in Reefs (Joanna)
 
