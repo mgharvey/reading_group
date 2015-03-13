@@ -10,7 +10,7 @@ This Week
 
 > - Nowak MA et al. 2010. The evolution of eusociality. Nature. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Nowaketal2010.pdf)
 >
-> - And the 5(!) [(responses)](https://github.com/mgharvey/reading_group/blob/master/docs/ResponsesNowak.pdf).
+> - And the 5(!) [responses](https://github.com/mgharvey/reading_group/blob/master/docs/ResponsesNowak.pdf).
 
 Future
 -------
