@@ -6,15 +6,18 @@ A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https
 This Week 
 -------
 
-**17 March 2015** - 
+**17 March 2015** - Kin selection
 
-> - Slater GJ and Pennell MW. 2014. Robust regression and posterior predictive simulation increase power to detect early bursts of trait evolution. Systematic Biology. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Slater&Pennell2014.pdf)
-
+> - Nowak MA et al. 2010. The evolution of eusociality. Nature. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Nowaketal2010.pdf)
+>
+> - And the 5(!) [(responses)](https://github.com/mgharvey/reading_group/blob/master/docs/ResponsesNowak.pdf).
 
 Future
 -------
 
-**24 March 2015** - 
+**24 March 2015** - Early bursts of trait evolution (Ryan T.)
+
+> - Slater GJ and Pennell MW. 2014. Robust regression and posterior predictive simulation increase power to detect early bursts of trait evolution. Systematic Biology. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Slater&Pennell2014.pdf)
 
 **31 March 2015** - 
 
