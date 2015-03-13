@@ -6,15 +6,13 @@ A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https
 This Week 
 -------
 
-**10 March 2015** - Group selection (Ryan E.)
+**17 March 2015** - 
 
-> - Pruit JN and Goodnight CJ. 2014. Site-specific group selection drives locally adapted group comparisons. Nature. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Pruitt&Goodnight2014.pdf)
+> - Slater GJ and Pennell MW. 2014. Robust regression and posterior predictive simulation increase power to detect early bursts of trait evolution. Systematic Biology. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Slater&Pennell2014.pdf)
 
 
 Future
 -------
-
-**17 March 2015** - 
 
 **24 March 2015** - 
 
@@ -32,6 +30,10 @@ Future
 
 Past
 -------
+
+**10 March 2015** - Group selection (Ryan E.)
+
+> - Pruit JN and Goodnight CJ. 2014. Site-specific group selection drives locally adapted group comparisons. Nature. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Pruitt&Goodnight2014.pdf)
 
 **3 March 2015** - Individualistic Response to Climate Change (Jess)
 
