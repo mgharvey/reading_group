@@ -7,7 +7,7 @@ A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https
 This Week 
 -------
 
-**24 March 2015** - Clock-like diversification (Mike)
+**24 March 2015** - *Clock-like diversification* (Mike)
 
 > - Hedges SB et al. 2015. Tree of life reveals clock-like speciation and diversification. Molecular Biology and Evolution. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Hedgesetal2015.pdf)
 
@@ -15,7 +15,7 @@ This Week
 Future
 -------
 
-**31 March 2015** - Early bursts of trait evolution (Ryan T.)
+**31 March 2015** - *Early bursts of trait evolution* (Ryan T.)
 
 > - Slater GJ and Pennell MW. 2014. Robust regression and posterior predictive simulation increase power to detect early bursts of trait evolution. Systematic Biology. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Slater&Pennell2014.pdf)
 
@@ -33,21 +33,21 @@ Future
 Past
 -------
 
-**17 March 2015** - Kin selection
+**17 March 2015** - *Kin selection*
 
 > - Nowak MA et al. 2010. The evolution of eusociality. Nature. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Nowaketal2010.pdf)
 >
 > - And the 5(!) [responses](https://github.com/mgharvey/reading_group/blob/master/docs/ResponsesNowak.pdf).
 
-**10 March 2015** - Group selection (Ryan E.)
+**10 March 2015** - *Group selection* (Ryan E.)
 
 > - Pruit JN and Goodnight CJ. 2014. Site-specific group selection drives locally adapted group comparisons. Nature. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Pruitt&Goodnight2014.pdf)
 
-**3 March 2015** - Individualistic Response to Climate Change (Jess)
+**3 March 2015** - *Individualistic Response to Climate Change* (Jess)
 
 > - Stewart JR. 2009. The evolutionary consequence of the individualistic response to climate change. J. Evol. Biol. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Stewart2009.pdf)
 
-**24 February 2015** - Assisted Evolution in Reefs (Joanna)
+**24 February 2015** - *Assisted Evolution in Reefs* (Joanna)
 
 > - van Oppen MJH et al. 2015. Building coral reef resilience through assisted evolution. PNAS. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/vanOppen2015.pdf)
 
