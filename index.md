@@ -3,17 +3,21 @@ LSU Evolution Discussion Group
 
 A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https://groups.google.com/forum/#!forum/lsu-evol-discussion) for more info. To download pdfs, click on the "(pdf)" link and then on "View Raw".
 
+
 This Week 
 -------
 
-**24 March 2015** - Early bursts of trait evolution (Ryan T.)
+**24 March 2015** - Clock-like diversification (Mike)
 
-> - Slater GJ and Pennell MW. 2014. Robust regression and posterior predictive simulation increase power to detect early bursts of trait evolution. Systematic Biology. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Slater&Pennell2014.pdf)
+> - Hedges SB et al. 2015. Tree of life reveals clock-like speciation and diversification. Molecular Biology and Evolution. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Hedgesetal2015.pdf)
+
 
 Future
 -------
 
-**31 March 2015** - 
+**31 March 2015** - Early bursts of trait evolution (Ryan T.)
+
+> - Slater GJ and Pennell MW. 2014. Robust regression and posterior predictive simulation increase power to detect early bursts of trait evolution. Systematic Biology. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Slater&Pennell2014.pdf)
 
 **7 April 2015** - *No Discussion (Spring Break)* 
 
@@ -24,6 +28,7 @@ Future
 **28 April 2015** - 
 
 **5 May 2015** - 
+
 
 Past
 -------
