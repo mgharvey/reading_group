@@ -7,21 +7,19 @@ A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https
 This Week 
 -------
 
-**24 March 2015** - *Clock-like diversification* (Mike)
+**31 March 2015** - *Bat microbiomes* (Mark)
 
-> - Hedges SB et al. 2015. Tree of life reveals clock-like speciation and diversification. Molecular Biology and Evolution. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Hedgesetal2015.pdf)
+> - Phillips CD et al. 2012. Microbiome analysis among bats describes influences of host phylogeny, life history, physiology, and geography. Molecular Ecology. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Phillipsetal2012.pdf)
 
 
 Future
 -------
 
-**31 March 2015** - *Early bursts of trait evolution* (Ryan T.)
-
-> - Slater GJ and Pennell MW. 2014. Robust regression and posterior predictive simulation increase power to detect early bursts of trait evolution. Systematic Biology. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Slater&Pennell2014.pdf)
-
 **7 April 2015** - *No Discussion (Spring Break)* 
 
-**14 April 2015** - 
+**14 April 2015** - *Early bursts of trait evolution* (Ryan T.) 
+
+> - Slater GJ and Pennell MW. 2014. Robust regression and posterior predictive simulation increase power to detect early bursts of trait evolution. Systematic Biology. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Slater&Pennell2014.pdf)
 
 **21 April 2015** - 
 
@@ -32,6 +30,10 @@ Future
 
 Past
 -------
+
+**24 March 2015** - *Clock-like diversification* (Mike)
+
+> - Hedges SB et al. 2015. Tree of life reveals clock-like speciation and diversification. Molecular Biology and Evolution. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Hedgesetal2015.pdf)
 
 **17 March 2015** - *Kin selection*
 
