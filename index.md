@@ -7,29 +7,31 @@ A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https
 This Week 
 -------
 
-**31 March 2015** - *Bat microbiomes* (Mark)
+**14 April 2015** - *Early bursts of trait evolution* (Ryan T.) 
 
-> - Phillips CD et al. 2012. Microbiome analysis among bats describes influences of host phylogeny, life history, physiology, and geography. Molecular Ecology. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Phillipsetal2012.pdf)
+> - Slater GJ and Pennell MW. 2014. Robust regression and posterior predictive simulation increase power to detect early bursts of trait evolution. Systematic Biology. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Slater&Pennell2014.pdf)
 
 
 Future
 -------
 
-**7 April 2015** - *No Discussion (Spring Break)* 
+**21 April 2015** - Selection on avian plumage color (Subir)
 
-**14 April 2015** - *Early bursts of trait evolution* (Ryan T.) 
+> - Dunn PO et al. 2015. Natural and sexual selection act on different axes of variation in avian plumage color. Science Advances. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Dunnetal2015.pdf)
 
-> - Slater GJ and Pennell MW. 2014. Robust regression and posterior predictive simulation increase power to detect early bursts of trait evolution. Systematic Biology. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Slater&Pennell2014.pdf)
+**28 April 2015** - Expressed sequences for population genomics (Melissa)
 
-**21 April 2015** - 
-
-**28 April 2015** - 
+> - De Wit P et al. 2015. SNP genotyping and population genomics from expressed sequences - current advances and future possibilities. Molecular Ecology. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/deWitetal2015.pdf)
 
 **5 May 2015** - 
 
 
 Past
 -------
+
+**31 March 2015** - *Bat microbiomes* (Mark)
+
+> - Phillips CD et al. 2012. Microbiome analysis among bats describes influences of host phylogeny, life history, physiology, and geography. Molecular Ecology. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Phillipsetal2012.pdf)
 
 **24 March 2015** - *Clock-like diversification* (Mike)
 
