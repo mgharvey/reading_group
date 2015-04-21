@@ -7,17 +7,14 @@ A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https
 This Week 
 -------
 
-**14 April 2015** - Selection on avian plumage color (Subir)
+**21 April 2015** - *Early bursts of trait evolution* (Ryan T.) 
 
-> - Dunn PO et al. 2015. Natural and sexual selection act on different axes of variation in avian plumage color. Science Advances. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Dunnetal2015.pdf)
+> - Slater GJ and Pennell MW. 2014. Robust regression and posterior predictive simulation increase power to detect early bursts of trait evolution. Systematic Biology. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Slater&Pennell2014.pdf)
+
 
 
 Future
 -------
-
-**21 April 2015** - *Early bursts of trait evolution* (Ryan T.) 
-
-> - Slater GJ and Pennell MW. 2014. Robust regression and posterior predictive simulation increase power to detect early bursts of trait evolution. Systematic Biology. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Slater&Pennell2014.pdf)
 
 **28 April 2015** - Expressed sequences for population genomics (Melissa)
 
@@ -28,6 +25,10 @@ Future
 
 Past
 -------
+
+**14 April 2015** - Selection on avian plumage color (Subir)
+
+> - Dunn PO et al. 2015. Natural and sexual selection act on different axes of variation in avian plumage color. Science Advances. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Dunnetal2015.pdf)
 
 **31 March 2015** - *Bat microbiomes* (Mark)
 
