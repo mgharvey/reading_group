@@ -7,24 +7,23 @@ A discussion group meeting Tuesday evenings at 8pm. See the [Google Group](https
 This Week 
 -------
 
-**21 April 2015** - *Early bursts of trait evolution* (Ryan T.) 
+**28 April 2015** - Expressed sequences for population genomics (Melissa)
 
-> - Slater GJ and Pennell MW. 2014. Robust regression and posterior predictive simulation increase power to detect early bursts of trait evolution. Systematic Biology. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Slater&Pennell2014.pdf)
-
+> - De Wit P et al. 2015. SNP genotyping and population genomics from expressed sequences - current advances and future possibilities. Molecular Ecology. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/deWitetal2015.pdf)
 
 
 Future
 -------
-
-**28 April 2015** - Expressed sequences for population genomics (Melissa)
-
-> - De Wit P et al. 2015. SNP genotyping and population genomics from expressed sequences - current advances and future possibilities. Molecular Ecology. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/deWitetal2015.pdf)
 
 **5 May 2015** - 
 
 
 Past
 -------
+
+**21 April 2015** - *Early bursts of trait evolution* (Ryan T.) 
+
+> - Slater GJ and Pennell MW. 2014. Robust regression and posterior predictive simulation increase power to detect early bursts of trait evolution. Systematic Biology. [(pdf)](https://github.com/mgharvey/reading_group/blob/master/docs/Slater&Pennell2014.pdf)
 
 **14 April 2015** - Selection on avian plumage color (Subir)
 
